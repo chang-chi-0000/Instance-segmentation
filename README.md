@@ -15,4 +15,4 @@ root
 ### training
 Just run `python hw3.py` then the program will run 30 epochs
 ### testing
-To produce json file, run `python3 hw3.py --test <epoch>` and the json file`0650726.json` can be created
+To produce json file, run `python hw3.py --test <epoch>` and the json file`0650726.json` can be created
